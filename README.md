@@ -1,6 +1,6 @@
 # EWave Landing Page
 
-**Live Demo:** [https://codestreamzone.github.io/EWave-LandingPage/](https://codestreamzone.github.io/EWave-LandingPage/)
+**Live Demo:** [https://codestreamzone.github.io/EWave.app-instant-calm/](https://codestreamzone.github.io/EWave.app-instant-calm/)
 
 The official landing page for EWave - an instant relief mobile app designed to reduce stress, anxiety, and emotional overload.
 
