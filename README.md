@@ -1,4 +1,4 @@
-# EWave Landing Page
+# EWave.app - Instant Calm
 
 **Live Demo:** [https://codestreamzone.github.io/EWave.app-instant-calm/](https://codestreamzone.github.io/EWave.app-instant-calm/)
 
