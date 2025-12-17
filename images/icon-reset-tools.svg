@@ -1,0 +1,7 @@
+<!-- Reset Tools Icon - Refresh/Circular Arrow -->
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M60 25L55 20L50 25" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M55 20C55 20 55 25 55 30C55 41.046 46.046 50 35 50C23.954 50 15 41.046 15 30C15 18.954 23.954 10 35 10C42.18 10 48.41 13.93 51.66 19.72" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <path d="M20 55L25 60L30 55" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M25 60C25 60 25 55 25 50C25 38.954 33.954 30 45 30C56.046 30 65 38.954 65 50C65 61.046 56.046 70 45 70C37.82 70 31.59 66.07 28.34 60.28" stroke="white" stroke-width="3" stroke-linecap="round"/>
+</svg>
